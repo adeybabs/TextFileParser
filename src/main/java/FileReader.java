@@ -8,6 +8,7 @@ import java.util.List;
 
 // Main class
 public class FileReader {
+
     // Java Program to Extract Content From a Text Document
 // Using Files class
 
@@ -39,9 +40,7 @@ public class FileReader {
 
         // Method 2
         // Main driver method
-        public static void main(String[] args)
-                throws IOException
-        {
+        public static void main(String[] args) throws IOException {
             // Custom input directory passed where text
             String fileName
                     = "/Users/mac/Desktop/EP720N.TXT";
