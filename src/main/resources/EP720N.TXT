@@ -1,0 +1,112 @@
+REPORT EP-720N  INCOMING INTERCHANGE                    VISANET EDIT PACKAGE                                             PAGE      1
+ SYSTEM DATE 22/09/01    RELEASE  4.00          NON-VISA ORIGINATED FUNDS DISBURSEMENT                                 CPD   22/08/23
+ ECOBANK                                                    CENTER 404299                                               RUN NO    012
+                                                                                                                                     
+      Funds Disbursement          ----     Required Data                                                                             
+                                                                                                                                     
+ Destination Identifier    410746                                  Destination Currency Code 840                                     
+ Source Identifier         441104                                  Source Amount             000000002500                            
+ Reason Code               0240                                    Source Currency Code      840                                     
+ Country Code                                                      Settlement Flag           0                                       
+ Event Date                20220822                                Transaction Identifier    582188716706106                         
+ Acct Number & Extension   4411042523812300000                     Central Processing Date   20220823                                
+ Destination Amount        000000002500                            Reimbursement Attribute   0                                       
+ Message Text              74107462189188191834774 , rol 5204297011                                                                  
+                                                                                                                                     
+      Funds Disbursement          ----     Additional Data                                                                           
+                                                                                                                                     
+ Rate Table ID             A0350                                                                                                     
+                                                                                                                                     
+      Funds Disbursement          ----     Required Data                                                                             
+                                                                                                                                     
+ Destination Identifier    410746                                  Destination Currency Code 840                                     
+ Source Identifier         441104                                  Source Amount             000000002500                            
+ Reason Code               0240                                    Source Currency Code      840                                     
+ Country Code                                                      Settlement Flag           0                                       
+ Event Date                20220822                                Transaction Identifier    582187624521013                         
+ Acct Number & Extension   4411042523812300000                     Central Processing Date   20220823                                
+ Destination Amount        000000002500                            Reimbursement Attribute   0                                       
+ Message Text              74107462188187170675373  , rol 5204285922                                                                 
+                                                                                                                                     
+      Funds Disbursement          ----     Additional Data                                                                           
+                                                                                                                                     
+ Rate Table ID             A0350                                                                                                     
+                                                                                                                                     
+      Funds Disbursement          ----     Required Data                                                                             
+                                                                                                                                     
+ Destination Identifier    410746                                  Destination Currency Code 840                                     
+ Source Identifier         483316                                  Source Amount             000000002744                            
+ Reason Code               0240                                    Source Currency Code      840                                     
+ Country Code                                                      Settlement Flag           0                                       
+ Event Date                20220822                                Transaction Identifier    382159011932148                         
+ Acct Number & Extension   4833160249563807000                     Central Processing Date   20220823                                
+ Destination Amount        000000002744                            Reimbursement Attribute   0                                       
+ Message Text                                                                                                                        
+                                                                                                                                     
+      Funds Disbursement          ----     Additional Data                                                                           
+                                                                                                                                     
+ Rate Table ID             A0350                                                                                                     
+REPORT EP-720N  INCOMING INTERCHANGE                    VISANET EDIT PACKAGE                                             PAGE      2
+ SYSTEM DATE 22/09/01    RELEASE  4.00          NON-VISA ORIGINATED FUNDS DISBURSEMENT                                 CPD   22/08/23
+ ECOBANK                                                    CENTER 404299                                               RUN NO    012
+                                                                                                                                     
+      Funds Disbursement          ----     Required Data                                                                             
+                                                                                                                                     
+ Destination Identifier    410746                                  Destination Currency Code 840                                     
+ Source Identifier         483316                                  Source Amount             000000005488                            
+ Reason Code               0240                                    Source Currency Code      840                                     
+ Country Code                                                      Settlement Flag           0                                       
+ Event Date                20220822                                Transaction Identifier    582159812321388                         
+ Acct Number & Extension   4833160249563807000                     Central Processing Date   20220823                                
+ Destination Amount        000000005488                            Reimbursement Attribute   0                                       
+ Message Text                                                                                                                        
+                                                                                                                                     
+      Funds Disbursement          ----     Additional Data                                                                           
+                                                                                                                                     
+ Rate Table ID             A0350                                                                                                     
+                                                                                                                                     
+      Funds Disbursement          ----     Required Data                                                                             
+                                                                                                                                     
+ Destination Identifier    410746                                  Destination Currency Code 840                                     
+ Source Identifier         483316                                  Source Amount             000000002500                            
+ Reason Code               0240                                    Source Currency Code      840                                     
+ Country Code                                                      Settlement Flag           0                                       
+ Event Date                20220822                                Transaction Identifier    462188011309689                         
+ Acct Number & Extension   4833160252111916000                     Central Processing Date   20220823                                
+ Destination Amount        000000002500                            Reimbursement Attribute   0                                       
+ Message Text              : ROL Case Number 5204474008  ARN:   7-410746-2189-18800083201-9  CLAI                                    
+                                                                                                                                     
+      Funds Disbursement          ----     Additional Data                                                                           
+                                                                                                                                     
+ Rate Table ID             A0350                                                                                                     
+                                                                                                                                     
+      Funds Disbursement          ----     Required Data                                                                             
+                                                                                                                                     
+ Destination Identifier    410746                                  Destination Currency Code 840                                     
+ Source Identifier         442756                                  Source Amount             000000005488                            
+ Reason Code               0240                                    Source Currency Code      840                                     
+ Country Code                                                      Settlement Flag           0                                       
+ Event Date                20220822                                Transaction Identifier    582168513256514                         
+ Acct Number & Extension   4427567007382042000                     Central Processing Date   20220823                                
+ Destination Amount        000000005488                            Reimbursement Attribute   0                                       
+ Message Text                                                                                                                        
+                                                                                                                                     
+      Funds Disbursement          ----     Additional Data                                                                           
+                                                                                                                                     
+ Rate Table ID             A0350                                                                                                     
+REPORT EP-720N  INCOMING INTERCHANGE                    VISANET EDIT PACKAGE                                             PAGE      3
+ SYSTEM DATE 22/09/01    RELEASE  4.00          NON-VISA ORIGINATED FUNDS DISBURSEMENT                                 CPD   22/08/23
+ ECOBANK                                                    CENTER 404299                                               RUN NO    012
+                                                                                                                                     
+      Funds Disbursement          ----     Required Data                                                                             
+                                                                                                                                     
+ Destination Identifier    410746                                  Destination Currency Code 840                                     
+ Source Identifier         426938                                  Source Amount             000000010000                            
+ Reason Code               0240                                    Source Currency Code      840                                     
+ Country Code                                                      Settlement Flag           0                                       
+ Event Date                20220625                                Transaction Identifier    612235477971491                         
+ Acct Number & Extension   4269380129522672000                     Central Processing Date   20220823                                
+ Destination Amount        000000010000                            Reimbursement Attribute   0                                       
+ Message Text              CREDIT REVERSAL--- ARN 74107462179176100014754 6/25 100.00                                                
+                                                                                                                                     
+ TRANSACTION TOTAL RECORD COUNT                7                                                                                     
