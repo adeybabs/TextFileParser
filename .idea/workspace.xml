@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e934a58-36f3-48e9-9fcc-4621d8b9ad31" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Record.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/parser/FileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parser/FileParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/parser/FileRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parser/FileRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FileReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parser/FinalParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/others/CFG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CFG/CFG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/others/FileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/others/Record.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parser/FileParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parser/FileRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/record/FileRecord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/CFG" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,15 +55,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileReader" />
+    <configuration name="others.FileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.FileReader" />
       <module name="TextFileParser" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Record" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Record" />
+    <configuration name="others.Record" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.Record" />
       <module name="TextFileParser" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,8 +80,8 @@
       <list>
         <item itemvalue="Application.parser.FileParser" />
         <item itemvalue="Application.CFG.CFG" />
-        <item itemvalue="Application.FileReader" />
-        <item itemvalue="Application.Record" />
+        <item itemvalue="Application.others.FileReader" />
+        <item itemvalue="Application.others.Record" />
       </list>
     </recent_temporary>
   </component>

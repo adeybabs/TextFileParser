@@ -1,4 +1,4 @@
-package CFG;
+package others;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -13,7 +13,7 @@ public class CFG {
             throws IOException
     {
         // arraylist to store strings
-        List<String> listOfStringscd
+        List<String> listOfStrings
                 = new ArrayList<String>();
 
         // load content of file based on specific delimiter

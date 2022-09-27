@@ -1,3 +1,5 @@
+package others;
+
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -45,7 +47,7 @@ public class FileReader {
             String fileName
                     = "/Users/mac/Desktop/EP720N.TXT";
 
-            // read using FileReader, no encoding support, not
+            // read using others.FileReader, no encoding support, not
             // efficient
             readUsingClass(fileName);
         }

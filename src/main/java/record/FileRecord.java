@@ -1,4 +1,4 @@
-package parser;
+package record;
 
 import lombok.Getter;
 import lombok.Setter;
